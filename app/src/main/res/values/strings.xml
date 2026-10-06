@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Notify Me</string>
+    <string name="notify">Notify Me!</string>
+    <string name="update">Update Me!</string>
+    <string name="cancel">Cancel Me!</string>
+    <string name="notification_title">You\'ve been notified!</string>
+    <string name="notification_text">This is your notification text.</string>
+    <string name="notification_updated">Notification Updated!</string>
+    <string name="channel_name">Mascot Notification</string>
+    <string name="channel_description">Notification from Mascot</string>
+    <string name="update_notification">Update Notification</string>
+    <string name="inbox_line_1">Line 1: You got a new message</string>
+    <string name="inbox_line_2">Line 2: Another update here</string>
+    <string name="inbox_line_3">Line 3: More content added</string>
+    <string name="inbox_line_4">Line 4: Keep scrolling</string>
+    <string name="inbox_summary">+3 more</string>
+</resources>
